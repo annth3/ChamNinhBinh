@@ -1,0 +1,8 @@
+{
+  "name": "chạm Ninh Bình",
+  "description": "Website du lịch tương tác song ngữ Việt – Anh giúp du khách khám phá Chùa Tam Chúc, Tràng An, Cố đô Hoa Lư, Vườn quốc gia Cúc Phương và Chùa Địa Tạng Phi Lai Tự qua hình ảnh thực tế, câu chuyện điểm đến và thuyết minh âm thanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
